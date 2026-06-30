@@ -1,6 +1,6 @@
 # Cursor Landing Page
 
-A modern, responsive landing page clone of cursor built with HTML and CSS.
+A modern, responsive landing page clone of cursor built with HTML5 and CSS.
 
 **Live Demo:** [https://mr-madhukar.github.io/coursor/](https://mr-madhukar.github.io/coursor/)
 
